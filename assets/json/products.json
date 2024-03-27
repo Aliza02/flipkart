@@ -1,0 +1,264 @@
+{
+    "header-category": [
+        {
+            "id": "1",
+            "category-name": "Recharge",
+            "image-Url": "assets/images/recharge.PNG"
+        },
+        {
+            "id": "2",
+            "category-name": "Travel",
+            "image-Url": "assets/images/travel.PNG"
+        },
+        {
+            "id": "3",
+            "category-name": "Two Wheeler",
+            "image-Url": "assets/images/twowheelers.PNG"
+        },
+        {
+            "id": "4",
+            "category-name": "Personal Loans",
+            "image-Url": "assets/images/personalloans.PNG"
+        },
+        {
+            "id": "5",
+            "category-name": "Insurance",
+            "image-Url": "assets/images/insurance.PNG"
+        },
+        {
+            "id": "6",
+            "category-name": "Medicine",
+            "image-Url": "assets/images/medicine.PNG"
+        },
+        {
+            "id": "7",
+            "category-name": "Phone Cash",
+            "image-Url": "assets/images/phonecash.PNG"
+        }
+    ],
+    "main-category": [
+        {
+            "id": "1",
+            "category-name": "Fashion",
+            "image-Url": "assets/images/fashion.PNG"
+        },
+        {
+            "id": "2",
+            "category-name": "Mobiles",
+            "image-Url": "assets/images/mobilephones.PNG"
+        },
+        {
+            "id": "3",
+            "category-name": "Smart Gadgets",
+            "image-Url": "assets/images/watch.PNG"
+        },
+        {
+            "id": "4",
+            "category-name": "Electronics",
+            "image-Url": "assets/images/electronics.PNG"
+        },
+        {
+            "id": "5",
+            "category-name": "Home Essentials",
+            "image-Url": "assets/images/homeessentials.PNG"
+        },
+        {
+            "id": "6",
+            "category-name": "Beauty & Grooming",
+            "image-Url": "assets/images/beautygrooming.PNG"
+        },
+        {
+            "id": "7",
+            "category-name": "Appliances",
+            "image-Url": "assets/images/appliances.PNG"
+        },
+        {
+            "id": "8",
+            "category-name": "Toys & Baby",
+            "image-Url": "assets/images/toys.PNG"
+        },
+        {
+            "id": "9",
+            "category-name": "Sports & Fitness",
+            "image-Url": "assets/images/sports.PNG"
+        },
+        {
+            "id": "10",
+            "category-name": "Auto Accessories",
+            "image-Url": "assets/images/auto.PNG"
+        },
+        {
+            "id": "11",
+            "category-name": "Food & Healthcare",
+            "image-Url": "assets/images/food.PNG"
+        },
+        {
+            "id": "12",
+            "category-name": "Furniture",
+            "image-Url": "assets/images/furniture.PNG"
+        }
+    ],
+
+    "popular": [
+        {
+            "id": "1",
+            "productName": "FastTrack Revollt",
+            "price": "Just 1,799",
+            "image-url": "assets/images/watch.PNG"
+        },
+        {
+            "id": "2",
+            "productName": "Energy Saving Fans",
+            "price": "From 1,899",
+            "image-url": "assets/images/fans.PNG"
+        },
+        {
+            "id": "3",
+            "productName": "Gentle Care",
+            "price": "Upto 60% off",
+            "image-url": "assets/images/beautyproducts.PNG"
+        }
+    ],
+    "seasons-top-pick": [
+        {
+            "id": "1",
+            "productName": "Men's t-shirts",
+            "price": "Min. 50% off",
+            "image-url": "assets/images/tshirt.PNG"
+        },
+        {
+            "id": "2",
+            "productName": "Track Suit",
+            "price": "Min. 50% off",
+            "image-url": "assets/images/tracksuit.PNG"
+        },
+        {
+            "id": "3",
+            "productName": "Men's Shirt",
+            "price": "Min. 50% off",
+            "image-url": "assets/images/shirt.PNG"
+        },
+        {
+            "id": "4",
+            "productName": "Watch Strap",
+            "price": "Min. 50% off",
+            "image-url": "assets/images/watchstrap.PNG"
+        }
+    ],
+    "sponsored": [
+        {
+            "id": "1",
+            "productName": "Nano Powerbank",
+            "price": "Spl.price 1,299",
+            "image-url": "assets/images/powerbank.PNG"
+        },
+        {
+            "id": "2",
+            "productName": "1.83| BT Calling",
+            "price": "Just 1,199",
+            "image-url": "assets/images/btcalling.PNG"
+        },
+        {
+            "id": "3",
+            "productName": "ENC | Quad Mic",
+            "price": "Just 899",
+            "image-url": "assets/images/quadmic.PNG"
+        },
+        {
+            "id": "4",
+            "productName": "Rugges Sneaker",
+            "price": "Min. 50% off",
+            "image-url": "assets/images/ruggedsnearker.PNG"
+        },
+        {
+            "id": "5",
+            "productName": "Jaw Dropping Deal",
+            "price": "Upto 70% off",
+            "image-url": "assets/images/dropdeal.PNG"
+        },
+        {
+            "id": "6",
+            "productName": "Outdoor Shoes",
+            "price": "Min. 30% off",
+            "image-url": "assets/images/outdoorshows.PNG"
+        }
+    ],
+    "Health-Wellness": [
+        {
+            "id": "1",
+            "productName": "Men' Shoes",
+            "price": "Min. 70% off",
+            "image-url": "assets/images/menslipper.PNG"
+        },
+        {
+            "id": "4",
+            "productName": "Men' Slippers",
+            "price": "Min. 70% off",
+            "image-url": "assets/images/slipper.PNG"
+        },
+        {
+            "id": "3",
+            "productName": "Dry Fruits",
+            "price": "Min. 50% off",
+            "image-url": "assets/images/dryfruits.PNG"
+        },
+        {
+            "id": "4",
+            "productName": "MouthWash",
+            "price": "Min. 30% off",
+            "image-url": "assets/images/mouthwash.PNG"
+        }
+    ],
+    "InDemand": [
+        {
+            "id": "1",
+            "productName": "Gown",
+            "price": "Upto 70% off",
+            "image-url": "assets/images/gown.PNG"
+        },
+        {
+            "id": "2",
+            "productName": "Wdding Sarees",
+            "price": "Under 499",
+            "image-url": "assets/images/weddingdress.PNG"
+        },
+        {
+            "id": "3",
+            "productName": "Ethnic Wear",
+            "price": "From 199",
+            "image-url": "assets/images/ethnicswear.PNG"
+        },
+        {
+            "id": "4",
+            "productName": "Grab or Gone",
+            "price": "Under 799",
+            "image-url": "assets/images/grab.PNG"
+        }
+    ],
+    "wildest-collection": [
+        {
+            "id": "1",
+            "productName": "Kitchen",
+            "price": "Special Offer",
+            "image-url": "assets/images/kitchen.PNG"
+        },
+        {
+            "id": "2",
+            "productName": "Printed Sarees",
+            "price": "Under 399",
+            "image-url": "assets/images/printeddress.PNG"
+        },
+        {
+            "id": "3",
+            "productName": "Trendy Kurtis",
+            "price": "From 199",
+            "image-url": "assets/images/trendukurtis.PNG"
+        },
+        {
+            "id": "4",
+            "productName": "Trendy Kurtis",
+            "price": "Under 799",
+            "image-url": "assets/images/trendykurtis.PNG"
+        }
+    ]
+}
